@@ -10,7 +10,7 @@ Each problem is presented in the individual Jupyter (formerly Ipython) Notebook 
 To play with these problems you need Jypyter Notebook to be installed on your computer. 
 Alternatively, you can read these notebooks using http://nbviewer.jupyter.org/
 
-Folder `real_data` collects 4 files with real-data matrices. These files are taken from Matrix Market Library http://math.nist.gov/MatrixMarket/
+Folder `real_data` collects 4 files with real-data matrices for nonnegative least square problem. These files are taken from Matrix Market Library http://math.nist.gov/MatrixMarket/
 
 Folder `figures` collects all plots that were used in the paper.
 
