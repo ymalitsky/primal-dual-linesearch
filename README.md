@@ -1,7 +1,7 @@
 About
 ======
 
-This is a supplementary code (in Python 2.7) for the paper Malitsky Y., Pock T. "Primal-dual method with a linesearch"
+This is a supplementary code (in Python 2.7) for the paper Malitsky Y., Pock T. "A first-order primal-dual algorithm with linesearch"
 
 Usage
 ======
